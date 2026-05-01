@@ -18,7 +18,7 @@ Se tiene la siguiente estructura:
 ### Modelo Ridge con búsqueda de hiperparámetros.
 ### Modelo LASSO con búsqueda de hiperparámetros.
 
-##Arboles de decisión.
+## Arboles de decisión.
 ### Búsqueda con cuadricula
 ### Optimización Bayesiana
 
